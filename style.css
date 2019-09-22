@@ -1,0 +1,25 @@
+body{
+  background-color: #4F4947;
+  color: #DEDEDE;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+h1{
+  font-size: 7rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+.dice1{
+  float: left;
+  width: 700px;
+  height: auto;
+  font-size: 3rem;
+}
+
+.dice2{
+  float: right;
+  width: 700px;
+  height: auto;
+  font-size: 3rem;
+}
